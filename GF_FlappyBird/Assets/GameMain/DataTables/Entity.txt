@@ -1,0 +1,8 @@
+#	实体表		
+#	Id		AssetName
+#	int		string
+#	实体编号	策划备注	资源名称
+	1	背景实体	Bg
+	2	管道实体	Pipe
+	3	小鸟实体	Bird
+	4	子弹实体	Bullet

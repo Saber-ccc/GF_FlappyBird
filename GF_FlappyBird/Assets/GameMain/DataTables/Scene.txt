@@ -1,0 +1,6 @@
+#	场景配置表			
+#	Id		AssetName	BackgroundId
+#	int		string	int
+#	场景编号	策划备注	资源名称	背景音乐编号（没有就设置为0）
+	1	菜单场景	Menu	1
+	2	主场景	Main	2

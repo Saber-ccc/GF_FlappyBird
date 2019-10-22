@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3169995276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec1809175c582764d9fdc0f49f909a63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Configs/DefaultConfig.txt
+Dependencies: []

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>GF_FlyBird</ProductName>
+      <CompanyName>DefaultCompany</CompanyName>
+      <GameIdentifier>com.Company.ProductName</GameIdentifier>
+      <ApplicableGameVersion>1.0</ApplicableGameVersion>
+      <InternalResourceVersion>10</InternalResourceVersion>
+      <UnityVersion>2017.4.3f1</UnityVersion>
+      <Platforms>Windows64</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <BuildAssetBundleOptions>272</BuildAssetBundleOptions>
+    </Summary>
+    <AssetBundles Count="11">
+      <AssetBundle Name="aniamtion" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="1b8033f4fb6d3fd48bbe704d729a2694" Name="Assets/GameMain/Animation/fly.anim" Length="2036" HashCode="-1296086247">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/Textures/bird.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="81533bbc54241c044b283817bb03bdbe" Name="Assets/GameMain/Animation/bird_0.controller" Length="1906" HashCode="-1586407908">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/Animation/fly.anim" />
+            </DependencyAssets>
+          </Asset>
+        </Assets>
+        <Codes>
+          <Windows64 Length="10056" HashCode="581128367" ZipLength="7915" ZipHashCode="600506141" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="configs" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="95aac4908af43174cbc4bfc5720cfbdd" Name="Assets/GameMain/Configs/DefaultConfig.txt" Length="110" HashCode="-1809668223" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="1230" HashCode="-1003451173" ZipLength="1042" ZipHashCode="-525828162" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="datatables" LoadType="0" Packed="True">
+        <Assets Count="6">
+          <Asset Guid="0ede6a0bdb07bcb41801f196d83fb5a7" Name="Assets/GameMain/DataTables/UISound.txt" Length="226" HashCode="2042300729" />
+          <Asset Guid="654fa72afffbfec4ca17e60a3b1600c4" Name="Assets/GameMain/DataTables/Scene.txt" Length="202" HashCode="-877776436" />
+          <Asset Guid="86b58e0c80cf4784c93bfb05c9053c52" Name="Assets/GameMain/DataTables/UIForm.txt" Length="443" HashCode="-772510676" />
+          <Asset Guid="8d0df84cfe46a9342b0e9c43b8fe2650" Name="Assets/GameMain/DataTables/Entity.txt" Length="177" HashCode="-1819192422" />
+          <Asset Guid="ad8649b32e1aaf14b8246c8d1af852ea" Name="Assets/GameMain/DataTables/Sound.txt" Length="457" HashCode="-170969965" />
+          <Asset Guid="e9c5de277316f0143a4f6141b98d8067" Name="Assets/GameMain/DataTables/Music.txt" Length="160" HashCode="-879280018" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="2273" HashCode="769136071" ZipLength="1986" ZipHashCode="-1982581316" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="entities" LoadType="0" Packed="True">
+        <Assets Count="4">
+          <Asset Guid="30e3b64f06a95ab4695c1c64de2b3707" Name="Assets/GameMain/Entities/Bird.prefab" Length="4083" HashCode="-345498438">
+            <DependencyAssets Count="2">
+              <DependencyAsset Name="Assets/GameMain/Animation/bird_0.controller" />
+              <DependencyAsset Name="Assets/GameMain/Textures/bird.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="52e8e1292afac9e4e855ee735790e302" Name="Assets/GameMain/Entities/Bg.prefab" Length="14841" HashCode="686106891">
+            <DependencyAssets Count="2">
+              <DependencyAsset Name="Assets/GameMain/Textures/back.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/bg.jpg" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="8c5314dcb461be44c9f8c645769e19f1" Name="Assets/GameMain/Entities/Pipe.prefab" Length="6548" HashCode="970239244">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/Textures/pipe.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="f35a225067785ff42911518656ebdb33" Name="Assets/GameMain/Entities/Bullet.prefab" Length="3543" HashCode="-1584575688" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="10367" HashCode="-693665371" ZipLength="8506" ZipHashCode="-1924690006" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="fonts" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="77cbb7c5404c10242ab59953e0746314" Name="Assets/GameMain/Fonts/MainFont.ttf" Length="7070444" HashCode="-1495042615" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="4648172" HashCode="1853626856" ZipLength="4063655" ZipHashCode="702286" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="localization" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="1f68d9d7399976e44909b81b02ae7602" Name="Assets/GameMain/Localization/English/Dictionaries/Default.xml" Length="1479" HashCode="2108272109" />
+          <Asset Guid="cb8680c664af5384aa9d36cd612cbdc5" Name="Assets/GameMain/Localization/ChineseSimplified/Dictionaries/Default.xml" Length="1448" HashCode="-840941703" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="2143" HashCode="735817359" ZipLength="1856" ZipHashCode="1582391717" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="music" LoadType="0" Packed="True">
+        <Assets Count="2">
+          <Asset Guid="5b40be9ed41159f419f9cc4707c31439" Name="Assets/GameMain/Music/Menu.mp3" Length="2399112" HashCode="-573272730" />
+          <Asset Guid="c3202928d94bc434ab8c56d4f851a144" Name="Assets/GameMain/Music/Main.mp3" Length="14438954" HashCode="625875635" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="4275849" HashCode="1696137911" ZipLength="4264582" ZipHashCode="429413285" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="scenes" LoadType="0" Packed="True">
+        <Assets Count="3">
+          <Asset Guid="0a1f3a9902dac2a408c26fe305f2ad48" Name="Assets/GameMain/Scenes/Launch.unity" Length="18979" HashCode="-1430217101" />
+          <Asset Guid="90357dba288e6e34b87dc1d0b14ad98c" Name="Assets/GameMain/Scenes/Menu.unity" Length="5132" HashCode="-1934581983" />
+          <Asset Guid="e04b6ff2b44b9ba4a9936077c6254cc2" Name="Assets/GameMain/Scenes/Main.unity" Length="5132" HashCode="-699155727" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="13916" HashCode="1749051047" ZipLength="11407" ZipHashCode="112645273" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="sounds" LoadType="0" Packed="True">
+        <Assets Count="3">
+          <Asset Guid="41fab97392c860041ae3c5e4b2fd7505" Name="Assets/GameMain/Sounds/Hurt.wav" Length="13697" HashCode="-383946334" />
+          <Asset Guid="6500b2cd63a6f2c4e81c882c58963b9b" Name="Assets/GameMain/Sounds/Fly.wav" Length="7728" HashCode="1777580317" />
+          <Asset Guid="d344047b27701d349af3dd4c23e538e8" Name="Assets/GameMain/Sounds/Dead.wav" Length="18942" HashCode="678543961" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="22575" HashCode="-1059883979" ZipLength="22368" ZipHashCode="-1362906890" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="textures" LoadType="0" Packed="True">
+        <Assets Count="3">
+          <Asset Guid="03b4fe496a94a8b4cb8cd078358ee8b4" Name="Assets/GameMain/Textures/back.png" Length="13407" HashCode="1910173704" />
+          <Asset Guid="a598899016e9cfe42b34118a20c27a3b" Name="Assets/GameMain/Textures/pipe.png" Length="13607" HashCode="584605791" />
+          <Asset Guid="af10bf8dc3da7c44db9f8b816fa6651d" Name="Assets/GameMain/Textures/bird.png" Length="12443" HashCode="567228321" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="45604" HashCode="-910032789" ZipLength="33295" ZipHashCode="120628220" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="ui" LoadType="0" Packed="True">
+        <Assets Count="18">
+          <Asset Guid="0e907be5dedf4644e82ccdf212ec620e" Name="Assets/GameMain/UI/UISprites/Common/progressbar.png" Length="24724" HashCode="-2045700310" />
+          <Asset Guid="0fcd752151630664b90a4aaa7975af4e" Name="Assets/GameMain/UI/UIForms/MenuForm.prefab" Length="25617" HashCode="-750407774">
+            <DependencyAssets Count="2">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/bg.jpg" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/main.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="11f613bfa1f23614aa6f14fa8a2253c6" Name="Assets/GameMain/UI/UISprites/Common/info.png" Length="1869" HashCode="-664484267" />
+          <Asset Guid="492ab0dbc4648114ea23b97a9466c964" Name="Assets/GameMain/UI/UIForms/GameOverForm.prefab" Length="17790" HashCode="-12657024">
+            <DependencyAssets Count="1">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/gameover.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="5b4c51f2757c9aa48b51e5496fc58a0f" Name="Assets/GameMain/UI/UISprites/Common/line.png" Length="797" HashCode="1037412198" />
+          <Asset Guid="89676643d7adb1d46869dffaf0738eca" Name="Assets/GameMain/UI/UISprites/Common/background.png" Length="5175294" HashCode="-1655459477" />
+          <Asset Guid="a27dd31f389a9f44bb93ba9d51ae5ba1" Name="Assets/GameMain/UI/UIForms/SettingForm.prefab" Length="95342" HashCode="1548914856">
+            <DependencyAssets Count="9">
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/box.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/circle.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/info.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/line.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/progressbar.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Common/progressbar-background.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Icons/music.png" />
+              <DependencyAsset Name="Assets/GameMain/UI/UISprites/Icons/world.png" />
+            </DependencyAssets>
+          </Asset>
+          <Asset Guid="a807ac9450259d945a11783f0547551a" Name="Assets/GameMain/UI/UISprites/Common/main.png" Length="27935" HashCode="-1165197300" />
+          <Asset Guid="accc344a51fe1ca4ebfd4f4595069620" Name="Assets/GameMain/UI/UIForms/ScoreForm.prefab" Length="3932" HashCode="-1718165300" />
+          <Asset Guid="b0251c3ae4ceda047a4640e6a1bb2f00" Name="Assets/GameMain/UI/UISprites/Common/gameover.png" Length="12794" HashCode="141727147" />
+          <Asset Guid="b3e73bfb3f4bdc549b1473d6dca6c976" Name="Assets/GameMain/UI/UISounds/Click.wav" Length="13235" HashCode="992381744" />
+          <Asset Guid="d53f35bcb73b44c4884744fba9c9419e" Name="Assets/GameMain/UI/UISprites/Common/box.png" Length="1058" HashCode="-963492990" />
+          <Asset Guid="db58965402f12ed47b4dad61a9e48c9d" Name="Assets/GameMain/UI/UISprites/Icons/world.png" Length="18113" HashCode="1965563661" />
+          <Asset Guid="dd20f42bc3b49f648ba9ec995803ec34" Name="Assets/GameMain/UI/UISprites/Common/circle.png" Length="1365" HashCode="-1596631985" />
+          <Asset Guid="e5ca26c53b6ab8a46b52817008d7c7fa" Name="Assets/GameMain/UI/UISprites/Icons/sound.png" Length="16337" HashCode="-988680570" />
+          <Asset Guid="f3159761a21d3984585d4fd9c1935b8f" Name="Assets/GameMain/UI/UISprites/Common/bg.jpg" Length="49954" HashCode="-1621336076" />
+          <Asset Guid="f438a72a91e1c3c4a9ced40888ffec96" Name="Assets/GameMain/UI/UISprites/Icons/music.png" Length="16152" HashCode="764932535" />
+          <Asset Guid="fcc475cafa1cc814aa8658fe5a9f1677" Name="Assets/GameMain/UI/UISprites/Common/progressbar-background.png" Length="784" HashCode="-1101224773" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="547569" HashCode="-711187482" ZipLength="365058" ZipHashCode="-1931261762" />
+        </Codes>
+      </AssetBundle>
+    </AssetBundles>
+  </BuildReport>
+</UnityGameFramework>

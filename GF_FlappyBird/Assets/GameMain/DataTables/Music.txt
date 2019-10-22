@@ -1,0 +1,6 @@
+#	音乐配置表		
+#	Id		AssetName
+#	int		string
+#	音乐编号	策划备注	资源名称
+	1	菜单场景背景音乐	Menu
+	2	主场景背景音乐	Main

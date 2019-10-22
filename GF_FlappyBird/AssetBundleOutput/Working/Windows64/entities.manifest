@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3556380795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 725ee9c8dcb986c66b98157e3b697e42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f7c4aa5962c903716d1f56d272fdc3a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Entities/Bullet.prefab
+- Assets/GameMain/Entities/Bg.prefab
+- Assets/GameMain/Entities/Pipe.prefab
+- Assets/GameMain/Entities/Bird.prefab
+Dependencies:
+- E:/2017.4.3Project/GameFramework/GF_FlappyBird/AssetBundleOutput/Working/Windows64/aniamtion
+- E:/2017.4.3Project/GameFramework/GF_FlappyBird/AssetBundleOutput/Working/Windows64/textures
+- E:/2017.4.3Project/GameFramework/GF_FlappyBird/AssetBundleOutput/Working/Windows64/ui

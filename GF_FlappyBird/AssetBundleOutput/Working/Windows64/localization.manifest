@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3788834847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb132f20001d686ca2624a782f9aa1af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/Localization/ChineseSimplified/Dictionaries/Default.xml
+- Assets/GameMain/Localization/English/Dictionaries/Default.xml
+Dependencies: []

@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 2261220481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9e056d2182af72d9cbacc795dc9ee29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d1173c579faa94dc95321ec5281dea1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cceee1c2d60fd7249a9e4781cd5f9ff3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf4877d64e1bc63489a27921582cf81b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aba88cf68f045014a90ea1a55c53c5ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd53b071f46f1245a857ead57090bd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2002053d7db13e440a700b0a100bcd5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameMain/UI/UIForms/MenuForm.prefab
+- Assets/GameMain/UI/UISprites/Common/bg.jpg
+- Assets/GameMain/UI/UISprites/Common/line.png
+- Assets/GameMain/UI/UISprites/Common/background.png
+- Assets/GameMain/UI/UISprites/Icons/world.png
+- Assets/GameMain/UI/UISprites/Common/main.png
+- Assets/GameMain/UI/UISprites/Icons/sound.png
+- Assets/GameMain/UI/UISprites/Common/progressbar.png
+- Assets/GameMain/UI/UISprites/Icons/music.png
+- Assets/GameMain/UI/UISprites/Common/gameover.png
+- Assets/GameMain/UI/UIForms/ScoreForm.prefab
+- Assets/GameMain/UI/UISprites/Common/progressbar-background.png
+- Assets/GameMain/UI/UISprites/Common/circle.png
+- Assets/GameMain/UI/UIForms/GameOverForm.prefab
+- Assets/GameMain/UI/UISounds/Click.wav
+- Assets/GameMain/UI/UISprites/Common/box.png
+- Assets/GameMain/UI/UIForms/SettingForm.prefab
+- Assets/GameMain/UI/UISprites/Common/info.png
+Dependencies: []
